@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>voce foi hackeada nenuda, te amulus, da uma risadinha se voce me ama tambem, gostosa, safada</h1> 
+    return <h1>nenuda ta ansioso pro show?</h1> 
           
 }
 
