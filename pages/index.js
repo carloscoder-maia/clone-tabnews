@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>nenuda ta ansioso pro show?</h1>;
+  return <h1>te amo amul</h1>;
 }
 
 function teste() {
